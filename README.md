@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **vudimi01@gettysburg.edu**
+- 📫 How to reach me **minhvud3008@gmail.com**
 
 - 📄 Know about my experiences [https://www.damianovu.com/](https://www.damianovu.com/)
 
