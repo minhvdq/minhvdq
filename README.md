@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **minhvud3008@gmail.com**
+- 📫 How to reach me **vuminh300805@gmail.com**
 
 - 📄 Know about my experiences [https://www.damianovu.com/](https://www.damianovu.com/)
 
