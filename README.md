@@ -6,13 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhvdq&label=Profile%20views&color=0e75b6&style=flat" alt="minhvdq" /> </p>
 
-- 🌱 I’m currently learning **System Design and Algorithms**
+- 🌱 I’m currently learning **manything**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **vuminh300805@gmail.com**
 
 - 📄 Know about my experiences [https://www.damianovu.com/](https://www.damianovu.com/)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvdq&show_icons=true&locale=en" alt="minhvdq" /></p>
